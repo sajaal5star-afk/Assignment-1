@@ -1,2 +1,4 @@
 # Assignment-1
-Conversion of 1D and 2D array in numpy and panda, finding error in a line equation
+Q1. Conversion of 1D array in numpy and panda.
+Q2. Conversion of 2D array in numpy and panda.
+Q3. Finding error in a line equation
